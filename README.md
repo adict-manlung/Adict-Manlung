@@ -1,6 +1,6 @@
 # Adict-Manlung - WhatsApp Bot
 
-![Adict-Manlung Banner](https://files.catbox.moe/m9k6pi.jpg) <!-- Replace with the actual image URL -->
+![Adict-Manlung Banner](https://i.imgur.com/2VWVz4w.jpeg) <!-- Replace with the actual image URL -->
 
 ## 🚀 Introduction
 Adict-Manlung is a powerful and feature-rich WhatsApp bot designed to automate tasks, provide useful functionalities, and enhance WhatsApp interactions. Built using Node.js and powered by the WhatsApp Web API, this bot can handle commands, respond to messages, and integrate with various third-party services.
