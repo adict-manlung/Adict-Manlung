@@ -1,7 +1,7 @@
 {
-  "name": "SILENT-SOBX-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "name": "ADICT-MD",
+  "description": "Bot developed by adict",
+  "logo": "https://files.catbox.moe/dgpqp6.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/h5ddpq.jpg"
+      "value": "https://files.catbox.moe/dgpqp6.jpg"
     }, 
     
     "ALIVE_MSG": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "ADICT MD"
     }, 
 
     "HEART_REACT": {
