@@ -20,6 +20,7 @@ Before you start, ensure you have the following installed:
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 - WhatsApp account & session setup
 
+- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/adict-manlung/Adict-Manlung).***
 ## ⚡ Installation
 Follow these steps to set up and run Adict-Manlung:
 
