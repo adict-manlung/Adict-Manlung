@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || "enter your session",
-    CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
+    CAPTION: process.env.CAPTION || "POWERED BY ADICT",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
@@ -19,8 +19,8 @@ module.exports = {
     HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "254748387615",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
-    ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M SILENT-SOBX-MD WHATSAPP BOT 😊♻️",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/dgpqp6.jpg",
+    ALIVE_MSG: process.env.ALIVE_MSG || "ADICT IS ALIVE",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || "",
@@ -29,7 +29,7 @@ module.exports = {
     HEART_REACT: process.env.HEART_REACT || "true",
     CHAT_BOT: process.env.CHAT_BOT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
-    BOT_NAME: process.env.BOT_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
-    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂`",
+    BOT_NAME: process.env.BOT_NAME || "ADICT MD",
+    STATUS_REPLY: process.env.STATUS_REPLY || "`SEEN BY ADICT `",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
